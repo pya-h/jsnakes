@@ -4,7 +4,7 @@
 	 to have more players (by specifying the corresponding input keys on the keyboard).
 
 # Demo:
-	https://pya-h.github.io/jsnakes
+https://pya-h.github.io/jsnakes
 
 # Rules:
 	It's all the rules of the old snake game except for:
