@@ -12,5 +12,9 @@
 		one segment, and 0 PPT), the other snake(s) continue to gather food,
 		In this case, the game doesnt end.
 
+# Input:
+	[keyboard key => move]:
+	First Player: w => up, s => down, d => right, a => left
+	First Player: 8 => up, 5 => down, 6 => right, 4 => left
 # P.S.:
 	This is the third project on the streets, of sorts :))
