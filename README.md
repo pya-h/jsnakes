@@ -3,6 +3,9 @@
 	By default, there's just two player, but by it can expand,
 	 to have more players (by specifying the corresponding input keys on the keyboard).
 
+# Demo:
+	https://pya-h.github.io/jsnakes
+
 # Rules:
 	It's all the rules of the old snake game except for:
 	* Each snake just loses when colliding with the other one.
@@ -14,7 +17,7 @@
 
 # Input:
 	[keyboard key => move]:
-	First Player: w => up, s => down, d => right, a => left
+	First Player:  w => up, s => down, d => right, a => left
 	Second Player: 8 => up, 5 => down, 6 => right, 4 => left
 # P.S.:
 	This is the third project on the streets, of sorts :))
